@@ -45,8 +45,8 @@
 {"id":"m43","name":"スライムタワー","num":"e11","icon":"img/m43.png","cost":15,"color":"黄","hp":22,"atk":11,"mgc":5,"rep":5,"def":13,"mdef":9,"spd":7,"tec":5,"spe":["スライム系への耐性+20%"]},
 {"id":"m44","name":"スライムナイト","num":"e12","icon":"img/m44.png","cost":62,"color":"赤","hp":83,"atk":55,"mgc":38,"rep":38,"def":47,"mdef":41,"spd":43,"tec":45,"spe":["クエスト開始時につらぬく大矢+1"]},
 {"id":"m45","name":"ドラゴスライム","num":"e13","icon":"img/m45.png","cost":25,"color":"赤","hp":37,"atk":17,"mgc":10,"rep":10,"def":21,"mdef":11,"spd":12,"tec":13,"spe":["マシン系への耐性+20%"]},
-{"id":"m46","name":"スライム軍","num":"e16","icon":"img/m48.png","cost":53,"color":"紫","hp":59,"atk":23,"mgc":69,"rep":44,"def":33,"mdef":68,"spd":30,"tec":32,"spe":["杖の通常攻撃が貫通"]},
+{"id":"m46","name":"スライム軍","num":"e16","icon":"img/m46.png","cost":53,"color":"紫","hp":59,"atk":23,"mgc":69,"rep":44,"def":33,"mdef":68,"spd":30,"tec":32,"spe":["杖の通常攻撃が貫通"]},
 {"id":"m47","name":"ベホイミスライム","num":"e14","icon":"img/m47.png","cost":30,"color":"緑","hp":24,"atk":21,"mgc":27,"rep":17,"def":13,"mdef":17,"spd":10,"tec":10,"spe":["あくま系への耐性+20%"]},
-{"id":"m48","name":"キングスライム","num":"e15","icon":"img/m46.png","cost":69,"color":"黄","hp":122,"atk":97,"mgc":44,"rep":44,"def":68,"mdef":56,"spd":42,"tec":34,"spe":["つぶて系の発生数2倍"]}
+{"id":"m48","name":"キングスライム","num":"e15","icon":"img/m48.png","cost":69,"color":"黄","hp":122,"atk":97,"mgc":44,"rep":44,"def":68,"mdef":56,"spd":42,"tec":34,"spe":["つぶて系の発生数2倍"]}
 
 ]
