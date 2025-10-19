@@ -47,6 +47,6 @@
 {id:"m45",name:"ドラゴスライム",icon:"img/m45.png",hp:37,atk:17,mgc:10,rep:10,def:21,mdef:11,spd:12,tec:13,spe:["マシン系への耐性+20%"]},
 {id:"m46",name:"スライム軍",icon:"img/m46.png",hp:59,atk:23,mgc:69,rep:44,def:33,mdef:68,spd:30,tec:32,spe:["杖の通常攻撃が貫通"]},
 {id:"m47",name:"ベホイミスライム",icon:"img/m47.png",hp:24,atk:21,mgc:27,rep:17,def:13,mdef:17,spd:10,tec:10,spe:["あくま系への耐性+20%"]},
-{id:"m48",name:"キングスライム",icon:"img/m48.png",hp:122,atk:97,mgc:44,rep:44,def:68,mdef:56,spd:42,tec:34,spe:["つぶて系の発生数2倍"]},
+{id:"m48",name:"キングスライム",icon:"img/m48.png",hp:122,atk:97,mgc:44,rep:44,def:68,mdef:56,spd:42,tec:34,spe:["つぶて系の発生数2倍"]}
 
 ]
